@@ -1,2 +1,2 @@
 # rl-playground
-Playground for ad-hoc RL experiments
+Playground for various RL experiments
